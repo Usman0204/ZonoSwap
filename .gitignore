@@ -9,7 +9,7 @@ sftp-config.json
 /coverage
 
 # production
-/build
+
 /node_modules
 
 # misc
