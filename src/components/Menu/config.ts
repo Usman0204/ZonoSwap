@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '',
+    href: 'https://farms.zonoswap.com/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: '',
+    href: 'https://farms.zonoswap.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '',
+    href: 'https://farms.zonoswap.com/pools',
   },
   // {
   //   label: 'Lottery',
