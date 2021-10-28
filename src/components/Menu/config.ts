@@ -36,11 +36,11 @@ const config: MenuEntry[] = [
   //   icon: 'TicketIcon',
   //   href: 'https://pancakeswap.finance/lottery',
   // },
-  // {
-  //   label: 'NFT',
-  //   icon: 'NftIcon',
-  //   href: 'https://pancakeswap.finance/nft',
-  // },
+  {
+    label: 'NFTs (soon)',
+    icon: 'NftIcon',
+    href: '',
+  },
   // {
   //   label: 'Teams & Profile',
   //   icon: 'GroupsIcon',
@@ -94,15 +94,15 @@ const config: MenuEntry[] = [
 
       {
         label: 'Github',
-        href: '',
+        href: 'https://github.com/Zonoswap/',
       },
       {
         label: 'Docs',
-        href: '',
+        href: 'https://zonoswap.gitbook.io/zonoswap/',
       },
       {
         label: 'Blog',
-        href: '',
+        href: 'https://medium.com/@zonoswap',
       },
     ],
   },
