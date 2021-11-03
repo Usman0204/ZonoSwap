@@ -26,12 +26,11 @@
       "decimals": 18
     },
     {
-      "name": "LP3 Token",
-      "symbol": "LP3",
-      "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/ETH.png"
+      "name": "ZONOSWAP",
+      "symbol": "ZONO",
+      "address": "0x8d08dcb48d59216ae5d0515aa6622c9beb42b76b",
+      "chainId": 56,
+      "decimals": 18
     },
     {
       "name": "BUSD Token",
@@ -789,20 +788,7 @@
       "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
       "chainId": 56,
       "decimals": 18
-    },
-    {
-      "name": "KASHMIR",
-      "symbol": "AJK",
-      "address": "0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4",
-      "chainId": 97,
-      "decimals": 18
-    },
-    {
-      "name": "AZAD",
-      "symbol": "KAS",
-      "address": "0x144c15676425a5192055a15471Da7FC413fa787D",
-      "chainId": 97,
-      "decimals": 18
     }
+
   ]
 }
