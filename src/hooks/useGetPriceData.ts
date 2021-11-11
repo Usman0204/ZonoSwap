@@ -9,7 +9,7 @@ type ApiResponse = {
 
  */
 // const api = 'https://api.pancakeswap.com/api/v1/price'
-const api= 'https://api.sweetswap.finance/price'
+const api= 'https://api.zonoswap.com/price'
 const useGetPriceData = () => {
   const [data, setData] = useState<ApiResponse | null>(null)
 
