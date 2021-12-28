@@ -87,6 +87,17 @@ const config: MenuEntry[] = [
   //   icon: 'IfoIcon',
   //   href: 'https://pancakeswap.finance/ifo',
   // },
+
+  {
+    label: 'Smart Contract Audit',
+    icon: 'TicketIcon',
+    href: 'https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_ZONOSwap.pdf',
+  },
+    {
+    label: 'KYC',
+    icon: 'IfoIcon',
+    href: 'https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_Zono_Swap.png',
+  },
   {
     label: 'More',
     icon: 'MoreIcon',
