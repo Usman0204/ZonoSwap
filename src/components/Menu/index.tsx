@@ -16,7 +16,6 @@ const Menu: React.FC = (props) => {
   const priceData = useGetPriceData()
   const cakePriceUsd = priceData ? Number(priceData.price) : undefined
   const profile = useGetLocalProfile()
-
   return (
     <UikitMenu
       links={links}
